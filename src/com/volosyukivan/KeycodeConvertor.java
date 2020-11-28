@@ -71,7 +71,7 @@ public final class KeycodeConvertor {
       
       // ESC
       case 27: return KeyEvent.KEYCODE_BACK;
-      case 116: return KeyEvent.KEYCODE_BACK;
+      case 116: return KeyEvent.KEYCODE_F5;
       // Home
       case 113: return KeyEvent.KEYCODE_MENU;
       
